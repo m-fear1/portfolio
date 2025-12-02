@@ -1,14 +1,13 @@
 # portfolio
 
 ## About me
-My name is Mark and I am a computer science student.
+My name is Mark and I am a computer science student. 
 
 ![picture of a dog](dog.jpg)
-![alt text](image.jpg)
+
 
 ## Projects
- - [pizza website](https://m-fear1.github.io/PleaseBuyMyPizza.github.io/)
-
+ - [pizza website](https://m-fear1.github.io/PleaseBuyMyPizza.github.io/) 
 ## Goals
 - learn how to touch type
 - get a computer science degree
