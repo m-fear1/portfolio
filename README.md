@@ -6,7 +6,7 @@ My name is Mark and I am a computer science student. I am currently typing this 
 ![picture of a dog](dog.jpg)
 (This isn't my dog, but I needed to learn how to input images on Markdown, and this picture showed up first when I searched dog so I went with it.) 
 
-Optimisation is another thing that interests me in coding, two different sections of code may do the same thing in a different amount of lines. It's fascinating how people have been able to shorten different sets of code to work nearly anywhere. For example, due to its incredibly well optimised code, the original DOOM has been made to run on anything from treadmills to ticket validators.
+Optimisation is another thing that interests me in coding, two different sections of code may do the same thing in a different amount of lines. It's fascinating how people have been able to shorten different sets of code to work nearly anywhere. For example, due to its incredibly well optimised code, the original DOOM has been made to run on anything from treadmills to ticket validators. Computer science to me is about working smarter, not harder.
 
 ## Projects
  - [pizza website](https://m-fear1.github.io/PleaseBuyMyPizza.github.io/) 
@@ -23,5 +23,4 @@ Optimisation is another thing that interests me in coding, two different section
 - javascript
 - java
 - python
-- markdown
 
