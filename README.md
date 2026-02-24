@@ -28,9 +28,6 @@ My name is Mark, and I am a computer science student. I am currently typing this
 
 
 
-![picture of a dog](dog.jpg)
-
-(This isn't my dog, but I needed to learn how to input images in Markdown)
 
 
 
