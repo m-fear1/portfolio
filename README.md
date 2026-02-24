@@ -3,6 +3,12 @@
 ## Table of Contents
 - [About me](#About-me)
 - [Challenges](#Challenges)
+- [Feedback](#Feedback)
+- [What I learned](#What-I-learned)
+- [Areas I want to develop further](#Areas-I-want-to-develop-further)
+- [Projects](#Projects)
+- [My CV](#my-CV)
+- [coding languages I know](#coding-languages-I-know)
 
 ## About me
 My name is Mark and I am a computer science student. I am currently typing this with my eyes closed, as I am learning to touch type. My interest in coding started when I was about eleven, when my parents brought me to a Scratch coding class in our local library, and I continued from there. I moved on from that and did another coding class in an afterschool class in a local school. There I learned how to do Java via the application Processing 3. I went to that class for roughly 6 years, and from there I went to DCFE. From there I've learned how to use even more coding languages, such as HTML, Python, CSS, Javascript, and, as of now, Markdown.
@@ -35,7 +41,9 @@ My name is Mark and I am a computer science student. I am currently typing this 
 
 
 ## Projects
- - [pizza website](https://m-fear1.github.io/PleaseBuyMyPizza.github.io/) 
+ - [pizza website](https://m-fear1.github.io/PleaseBuyMyPizza.github.io/)
+
+
 ## Goals for this site
 - Have important information about me
 - Exemplify my ability to use github
