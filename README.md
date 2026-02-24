@@ -7,13 +7,18 @@ My name is Mark and I am a computer science student. I am currently typing this 
 (This isn't my dog, but I needed to learn how to input images on Markdown, and this picture showed up first when I searched dog so I went with it.) 
 
 
+##challenges
+- when trying to add a link to a PDF of my CV, it wouldn't give me a link when trying to share the file so I had to upload my CV to a PDF upload site and put in a link to where it was uploaded there.
+- I initally didn't know how to use Markdown to make a site but now after working with it for multiple days I have gotten a better grasp of it's components to use it to my full advantage
+
+
 
 ## Projects
  - [pizza website](https://m-fear1.github.io/PleaseBuyMyPizza.github.io/) 
-## Goals
-- learn how to touch type
-- get a computer science degree
-- get a job
+## Goals for this site
+- Have important information about me
+- Exemplify my ability to use github
+-  
 
 ## My CV
 - [CV](https://pdflink.to/6df3eaa6/)
