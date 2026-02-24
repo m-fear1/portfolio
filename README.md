@@ -68,8 +68,6 @@ My name is Mark, and I am a computer science student. I am currently typing this
 
 - I learnt how to create a "read me" page for my GitHub account.
 
--
-
 
 
 ## Areas I want to develop further
@@ -80,13 +78,9 @@ My name is Mark, and I am a computer science student. I am currently typing this
 
 
 
-
-
 ## Projects
 
 - [pizza website](https://m-fear1.github.io/PleaseBuyMyPizza.github.io/)
-
-
 
 
 
@@ -96,17 +90,11 @@ My name is Mark, and I am a computer science student. I am currently typing this
 
 - Exemplify my ability to use GitHub
 
--
-
 
 
 ## My CV
 
 - [CV](https://pdfhost.io/v/rFFDGGM2rS_Mark_Fearon_CV)
-
-
-
-
 
 
 
