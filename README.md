@@ -16,7 +16,7 @@ My name is Mark and I am a computer science student. I am currently typing this 
 - get a job
 
 ## My CV
-- [CV](https://etbddl-my.sharepoint.com/:w:/r/personal/20251549_dcfe_ie/Documents/Documents/Mark%20Fearon%20CV.docx?d=weff3afef007d460b85686ca7dca420df&csf=1&web=1&e=wcrz7d)
+- [CV](https://pdflink.to/6df3eaa6/)
 
 
 
